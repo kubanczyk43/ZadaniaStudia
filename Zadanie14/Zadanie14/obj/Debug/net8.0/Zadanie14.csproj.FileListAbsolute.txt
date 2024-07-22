@@ -1,0 +1,14 @@
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\bin\Debug\net8.0\Zadanie14.exe
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\bin\Debug\net8.0\Zadanie14.deps.json
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\bin\Debug\net8.0\Zadanie14.runtimeconfig.json
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\bin\Debug\net8.0\Zadanie14.dll
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\bin\Debug\net8.0\Zadanie14.pdb
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\Zadanie14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\Zadanie14.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\Zadanie14.AssemblyInfo.cs
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\Zadanie14.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\Zadanie14.dll
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\refint\Zadanie14.dll
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\Zadanie14.pdb
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\Zadanie14.genruntimeconfig.cache
+C:\Users\jakub\source\repos\Zadanie14\Zadanie14\obj\Debug\net8.0\ref\Zadanie14.dll

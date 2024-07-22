@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\source\\repos\\Zadanie14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8534A1A-DF46-451A-B184-CE1465405DEF}|Zadanie14\\Zadanie14.csproj|c:\\users\\jakub\\source\\repos\\zadanie14\\zadanie14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8534A1A-DF46-451A-B184-CE1465405DEF}|Zadanie14\\Zadanie14.csproj|solutionrelative:zadanie14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\Zadanie14\\Zadanie14\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie14\\Program.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\Zadanie14\\Zadanie14\\Program.cs",
+              "RelativeToolTip": "Zadanie14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:02:33.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
